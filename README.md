@@ -1,4 +1,4 @@
-# y-weapon
+# Spammer Yahoo
 Spam Yahoo Mail
 *How to Install :
 *in Termux :
