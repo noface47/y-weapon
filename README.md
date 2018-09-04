@@ -19,8 +19,8 @@ pip2 install requests
 
 git clone https://github.com/noface47/y-weapon
 
-cd g-weapon
+cd y-weapon
 
-python gweapon.py
+python yweapon.py
 
 *in distro Linux,same like Command Termux but Different,Go search Google to Commando and commando same is : cd g-weapon python gweapon.py or python2 gweapon.py or like your distro python
