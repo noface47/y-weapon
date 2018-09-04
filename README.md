@@ -1,6 +1,8 @@
 # Spammer Yahoo
 Spam Yahoo Mail
 *How to Install :
+*Pleas Acctive Allow apps that use less secure sign-in Account
+URL : https://login.yahoo.com/account/security
 *in Termux :
 
 apt install git
